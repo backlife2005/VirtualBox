@@ -1,0 +1,11 @@
+*.build
+*.log
+*.vdi
+*.sav
+*.vmdk
+*.tested
+*.uploaded
+*.released
+*.SHA256SUM
+*.SHA256SUM.gpg
+
